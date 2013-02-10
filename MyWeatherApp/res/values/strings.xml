@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MyThirdApp</string>
+    <string name="edit_message">Enter Location</string>
+    <string name="button_send">Submit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_third_main">Weather Report</string>
+    <string name="title_activity_display_weather_report">Display Weather Report</string>
+
+</resources>
