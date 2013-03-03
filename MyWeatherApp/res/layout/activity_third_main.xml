@@ -9,7 +9,7 @@
         android:id="@+id/edit_message"
         android:layout_width="288dp"
         android:layout_height="wrap_content"
-        android:ems="10"
+        android:ems="15"
         android:hint="@string/edit_message" >
 
         <requestFocus />
